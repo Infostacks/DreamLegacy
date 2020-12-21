@@ -3,7 +3,7 @@ import axios from 'axios'
 export const login = (data) => {
     return axios.request({
         method: 'GET',
-        url: 'https://dreamlottery-demoo.herokuapp.com//users',
+        url: 'https://dreamlottery-demoo.herokuapp.com/users',
         headers: {
             'Access-Control-Allow-Origin': '*',
             Accept: "application/json",
@@ -18,7 +18,7 @@ export const login = (data) => {
 export const signup = (data) => {
     return axios.request({
         method: 'POST',
-        url: 'https://dreamlottery-demoo.herokuapp.com//add',
+        url: 'https://dreamlottery-demoo.herokuapp.com/add',
         headers: {
             'Access-Control-Allow-Origin': '*',
             Accept: "application/json",
