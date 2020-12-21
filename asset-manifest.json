@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/DreamLegacy/static/css/main.c5a3ee5c.chunk.css",
+    "main.js": "/DreamLegacy/static/js/main.5916a3f0.chunk.js",
+    "main.js.map": "/DreamLegacy/static/js/main.5916a3f0.chunk.js.map",
+    "runtime-main.js": "/DreamLegacy/static/js/runtime-main.4b52a331.js",
+    "runtime-main.js.map": "/DreamLegacy/static/js/runtime-main.4b52a331.js.map",
+    "static/js/2.9ef123a8.chunk.js": "/DreamLegacy/static/js/2.9ef123a8.chunk.js",
+    "static/js/2.9ef123a8.chunk.js.map": "/DreamLegacy/static/js/2.9ef123a8.chunk.js.map",
+    "index.html": "/DreamLegacy/index.html",
+    "precache-manifest.c89d3ae3ded39ccf5e733d42621480e4.js": "/DreamLegacy/precache-manifest.c89d3ae3ded39ccf5e733d42621480e4.js",
+    "service-worker.js": "/DreamLegacy/service-worker.js",
+    "static/css/main.c5a3ee5c.chunk.css.map": "/DreamLegacy/static/css/main.c5a3ee5c.chunk.css.map",
+    "static/js/2.9ef123a8.chunk.js.LICENSE.txt": "/DreamLegacy/static/js/2.9ef123a8.chunk.js.LICENSE.txt",
+    "static/media/US-Map.jpg": "/DreamLegacy/static/media/US-Map.2674f5a9.jpg",
+    "static/media/avatar.jpg": "/DreamLegacy/static/media/avatar.f1d71f77.jpg",
+    "static/media/bg.jpg": "/DreamLegacy/static/media/bg.a6b0ac32.jpg",
+    "static/media/bg4.jpg": "/DreamLegacy/static/media/bg4.199e9ec1.jpg",
+    "static/media/bg7.jpg": "/DreamLegacy/static/media/bg7.4b7346bf.jpg",
+    "static/media/christian.jpg": "/DreamLegacy/static/media/christian.56633ed3.jpg",
+    "static/media/clem-onojegaw.jpg": "/DreamLegacy/static/media/clem-onojegaw.c058841b.jpg",
+    "static/media/clem-onojeghuo.jpg": "/DreamLegacy/static/media/clem-onojeghuo.216ef03c.jpg",
+    "static/media/cynthia-del-rio.jpg": "/DreamLegacy/static/media/cynthia-del-rio.9813593c.jpg",
+    "static/media/kendall.jpg": "/DreamLegacy/static/media/kendall.e0508cc9.jpg",
+    "static/media/landing-bg.jpg": "/DreamLegacy/static/media/landing-bg.2674f5a9.jpg",
+    "static/media/mariya-georgieva.jpg": "/DreamLegacy/static/media/mariya-georgieva.4575c40b.jpg",
+    "static/media/olu-eletu.jpg": "/DreamLegacy/static/media/olu-eletu.4112cbc1.jpg",
+    "static/media/profile-bg.jpg": "/DreamLegacy/static/media/profile-bg.cde4cee2.jpg",
+    "static/media/studio-1.jpg": "/DreamLegacy/static/media/studio-1.ae0150c0.jpg",
+    "static/media/studio-2.jpg": "/DreamLegacy/static/media/studio-2.76e2987e.jpg",
+    "static/media/studio-3.jpg": "/DreamLegacy/static/media/studio-3.1d5451ce.jpg",
+    "static/media/studio-4.jpg": "/DreamLegacy/static/media/studio-4.e064d090.jpg",
+    "static/media/studio-5.jpg": "/DreamLegacy/static/media/studio-5.ef5c30ea.jpg",
+    "static/media/users.jpg": "/DreamLegacy/static/media/users.54c31458.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b52a331.js",
+    "static/js/2.9ef123a8.chunk.js",
+    "static/css/main.c5a3ee5c.chunk.css",
+    "static/js/main.5916a3f0.chunk.js"
+  ]
+}
