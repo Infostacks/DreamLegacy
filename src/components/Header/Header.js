@@ -123,6 +123,7 @@ export default function Header(props) {
           <Grid style={{margin:"10px"}}></Grid>
           <Button onClick={stateRoute} style={{backgroundColor : "#ffbe0b"}}>State numbers</Button>
         </Box>
+<<<<<<< HEAD
         <Grid style={{marginRight:"30px"}}></Grid>
         </Grid >
       <div style={{marginLeft:"350px"}}>
@@ -130,6 +131,15 @@ export default function Header(props) {
           
           <Button onClick={signUpRoute} style={{backgroundColor : "#ffbe0b"}}>SignUp</Button>
                  <Button onClick={() => logout()} style={{backgroundColor : "#ffbe0b"}}>LogOut</Button>
+=======
+        </Grid >
+      <div style={{float:'right'}}>
+          <Button onClick={logInRoute} style={{backgroundColor : "#ffbe0b"}}>Log In</Button>
+          <Grid style={{margin:"10px"}}></Grid>
+          <Button onClick={signUpRoute} style={{backgroundColor : "#ffbe0b"}}>SignUp</Button>
+          <Grid style={{margin:"10px"}}></Grid>
+          <Button onClick={() => logout()} style={{backgroundColor : "#ffbe0b"}}>LogOut</Button>
+>>>>>>> 6bd2e80612608a6a0c7a45f1f61f0187a72b663f
           </div>
           
        
