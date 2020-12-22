@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84d0f71b6e2a8ed2f1ca7b0033d8c465",
+    "revision": "c119ee6f4d08eea41a3cc2c53040f07c",
     "url": "/DreamLegacy/index.html"
   },
   {
-    "revision": "f99d8283a8bd295d6fa7",
+    "revision": "c27ee570b7187400ebe7",
     "url": "/DreamLegacy/static/css/main.c5a3ee5c.chunk.css"
   },
   {
-    "revision": "9d84bdafc81a65ad717c",
-    "url": "/DreamLegacy/static/js/2.9ef123a8.chunk.js"
+    "revision": "bb52615fbe5494affa46",
+    "url": "/DreamLegacy/static/js/2.8f137969.chunk.js"
   },
   {
     "revision": "ba0a3b7f935a8119af5d30fb57033688",
-    "url": "/DreamLegacy/static/js/2.9ef123a8.chunk.js.LICENSE.txt"
+    "url": "/DreamLegacy/static/js/2.8f137969.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f99d8283a8bd295d6fa7",
-    "url": "/DreamLegacy/static/js/main.5916a3f0.chunk.js"
+    "revision": "c27ee570b7187400ebe7",
+    "url": "/DreamLegacy/static/js/main.50f75ad2.chunk.js"
   },
   {
     "revision": "7976014898ee58e898d5",

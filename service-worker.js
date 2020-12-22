@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DreamLegacy/precache-manifest.c89d3ae3ded39ccf5e733d42621480e4.js"
+  "/DreamLegacy/precache-manifest.fe3e2a58d3a61a2e3e7feea48be3cad3.js"
 );
 
 self.addEventListener('message', (event) => {

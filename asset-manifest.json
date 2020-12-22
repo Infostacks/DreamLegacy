@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/DreamLegacy/static/css/main.c5a3ee5c.chunk.css",
-    "main.js": "/DreamLegacy/static/js/main.5916a3f0.chunk.js",
-    "main.js.map": "/DreamLegacy/static/js/main.5916a3f0.chunk.js.map",
+    "main.js": "/DreamLegacy/static/js/main.50f75ad2.chunk.js",
+    "main.js.map": "/DreamLegacy/static/js/main.50f75ad2.chunk.js.map",
     "runtime-main.js": "/DreamLegacy/static/js/runtime-main.4b52a331.js",
     "runtime-main.js.map": "/DreamLegacy/static/js/runtime-main.4b52a331.js.map",
-    "static/js/2.9ef123a8.chunk.js": "/DreamLegacy/static/js/2.9ef123a8.chunk.js",
-    "static/js/2.9ef123a8.chunk.js.map": "/DreamLegacy/static/js/2.9ef123a8.chunk.js.map",
+    "static/js/2.8f137969.chunk.js": "/DreamLegacy/static/js/2.8f137969.chunk.js",
+    "static/js/2.8f137969.chunk.js.map": "/DreamLegacy/static/js/2.8f137969.chunk.js.map",
     "index.html": "/DreamLegacy/index.html",
-    "precache-manifest.c89d3ae3ded39ccf5e733d42621480e4.js": "/DreamLegacy/precache-manifest.c89d3ae3ded39ccf5e733d42621480e4.js",
+    "precache-manifest.fe3e2a58d3a61a2e3e7feea48be3cad3.js": "/DreamLegacy/precache-manifest.fe3e2a58d3a61a2e3e7feea48be3cad3.js",
     "service-worker.js": "/DreamLegacy/service-worker.js",
     "static/css/main.c5a3ee5c.chunk.css.map": "/DreamLegacy/static/css/main.c5a3ee5c.chunk.css.map",
-    "static/js/2.9ef123a8.chunk.js.LICENSE.txt": "/DreamLegacy/static/js/2.9ef123a8.chunk.js.LICENSE.txt",
+    "static/js/2.8f137969.chunk.js.LICENSE.txt": "/DreamLegacy/static/js/2.8f137969.chunk.js.LICENSE.txt",
     "static/media/US-Map.jpg": "/DreamLegacy/static/media/US-Map.2674f5a9.jpg",
     "static/media/avatar.jpg": "/DreamLegacy/static/media/avatar.f1d71f77.jpg",
     "static/media/bg.jpg": "/DreamLegacy/static/media/bg.a6b0ac32.jpg",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4b52a331.js",
-    "static/js/2.9ef123a8.chunk.js",
+    "static/js/2.8f137969.chunk.js",
     "static/css/main.c5a3ee5c.chunk.css",
-    "static/js/main.5916a3f0.chunk.js"
+    "static/js/main.50f75ad2.chunk.js"
   ]
 }
